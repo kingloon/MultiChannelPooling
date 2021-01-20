@@ -1,0 +1,1 @@
+Mean best accuracy: 80.47±3.38
